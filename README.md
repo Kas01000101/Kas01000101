@@ -1,139 +1,132 @@
 <div align="center">
 
-# Kas01000101
+<img width="100%" src="https://raw.githubusercontent.com/Kas01000101/Kas01000101/main/assets/futuristic-banner.svg" alt="Kas01000101 futuristic AI Engineering and Robotics banner" />
 
-### AI Engineering · Robotics · Intelligent Systems
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+intelligent+systems+with+real-world+impact;AI+Engineering+%C3%97+Robotics;Computer+Vision+%C3%97+Autonomous+Systems;From+code+to+machines+that+perceive+and+act" alt="Animated typing" />
 
-Building intelligent systems that connect **artificial intelligence, software engineering, and robotics** to solve real-world problems.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=AI+Engineering;Robotics+%26+Autonomous+Systems;Computer+Vision+%26+Intelligent+Interfaces;Building+technology+with+real-world+impact" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/PYTHON-0B1025?style=for-the-badge&logo=python&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-0B1025?style=for-the-badge&logo=typescript&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/C%2B%2B-0B1025?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROBOTICS-0891B2?style=for-the-badge" />
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Kas01000101/Kas01000101/main/assets/focus-panel.svg" alt="AI Engineering Robotics focus areas" />
 
-## About
+## `01 // SYSTEM PROFILE`
 
-I focus on the intersection of **AI Engineering and Robotics**, combining intelligent software, interactive systems, and autonomous technologies.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-My work is oriented toward building systems that can **perceive, reason, interact, and act** — from AI-powered applications to robotics-inspired educational experiences and intelligent interfaces.
+### Building intelligent technology
+
+I work at the intersection of **AI Engineering** and **Robotics**, creating systems that can **perceive, reason, interact, and act**.
 
 ```python
-focus = [
-    "AI Engineering",
-    "Robotics",
-    "Computer Vision",
-    "Autonomous Systems",
-    "Intelligent Interfaces",
-]
-
-mission = "Build intelligent technology with real-world impact."
+system = {
+    "focus": ["AI Engineering", "Robotics"],
+    "languages": ["Python", "TypeScript", "C++"],
+    "exploring": [
+        "Computer Vision",
+        "Autonomous Systems",
+        "Human-Robot Interaction"
+    ]
+}
 ```
 
----
+</td>
+<td width="45%" valign="top">
 
-## Core Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
----
-
-## AI Engineering
-
-- Machine learning systems and AI-powered applications
-- Intelligent backend services and APIs
-- Computer vision and perception-oriented systems
-- Applied AI for education, accessibility, and real-world workflows
-- Data-driven experimentation and rapid prototyping
-
-## Robotics
-
-- Autonomous-system concepts and robot behavior
-- Sensors, perception, navigation, and control logic
-- Human–robot interaction and educational robotics
-- Interactive 3D simulation with **Three.js**
-- Robotics-oriented learning experiences and mission-based interfaces
-
----
-
-## Featured Projects
-
-### ApuLab Station
-
-Interactive STEM and robotics learning experience built around missions, experimentation, and problem solving.
-
-`TypeScript` · `Three.js` · `Vite` · `Interactive Systems` · `Robotics Education`
-
-[![ApuLab Station](https://img.shields.io/badge/View-ApuLabStation-8B5CF6?style=for-the-badge&logo=github)](https://github.com/Kas01000101/ApuLabStation)
-
-### KallpaWarmIIA
-
-AI-focused project exploring intelligent technology applied to real-world challenges.
-
-`AI` · `Python` · `Intelligent Systems`
-
-[![KallpaWarmIIA](https://img.shields.io/badge/View-KallpaWarmIIA-06B6D4?style=for-the-badge&logo=github)](https://github.com/Kas01000101/KallpaWarmIIA)
-
----
-
-## Areas I'm Exploring
+### Current signal
 
 ```text
-Artificial Intelligence
-├── AI Engineering
-├── Machine Learning
-├── Computer Vision
-└── Intelligent Applications
-
-Robotics
-├── Autonomous Systems
-├── Perception & Sensors
-├── Human–Robot Interaction
-└── Simulation
-
-Software
-├── Python
-├── TypeScript
-├── C++
-├── APIs & Backend Systems
-└── Interactive 3D Experiences
+STATUS        ONLINE
+MODE          BUILD / EXPLORE
+AI            █████████░
+ROBOTICS      ████████░░
+VISION        ███████░░░
+HRI           ███████░░░
+NEXT          smarter physical systems
 ```
 
----
+</td>
+</tr>
+</table>
 
-## GitHub
+## `02 // TECH INTERFACE`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kas01000101&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=22D3EE&text_color=9CA3AF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kas01000101&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=python,ts,cpp,fastapi,postgres,supabase,threejs,vite,git,github,vscode&perline=11" alt="Technology stack" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20SYSTEMS-151039?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-1B1544?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/AUTONOMOUS%20SYSTEMS-0B2738?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/HUMAN--ROBOT%20INTERACTION-10283A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/INTERACTIVE%203D-18133D?style=flat-square&logoColor=white" />
 
 </div>
 
+## `03 // FEATURED BUILDS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ ApuLab Station
+
+**Interactive STEM + robotics learning system** built around missions, experimentation, and problem solving.
+
+`TypeScript` · `Three.js` · `Vite` · `Robotics Education`
+
+[![Open ApuLab Station](https://img.shields.io/badge/OPEN_APULAB_STATION-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kas01000101/ApuLabStation)
+
+</td>
+<td width="50%" valign="top">
+
+### ◇ KallpaWarmIIA
+
+**AI-focused intelligent system** exploring technology applied to real-world challenges.
+
+`Python` · `AI` · `Intelligent Systems`
+
+[![Open KallpaWarmIIA](https://img.shields.io/badge/OPEN_KALLPAWARMIIA-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kas01000101/KallpaWarmIIA)
+
+</td>
+</tr>
+</table>
+
+## `04 // CURRENT ORBIT`
+
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Kas01000101&style=for-the-badge&color=7c3aed)
+![AI Engineering](https://img.shields.io/badge/AI_ENGINEERING-8B5CF6?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-6D5BD0?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-0EA5E9?style=for-the-badge)
+![Autonomous Systems](https://img.shields.io/badge/AUTONOMOUS_SYSTEMS-06B6D4?style=for-the-badge)
+![Sensors](https://img.shields.io/badge/PERCEPTION_%26_SENSORS-0891B2?style=for-the-badge)
+![HRI](https://img.shields.io/badge/HUMAN--ROBOT_INTERACTION-7C3AED?style=for-the-badge)
 
 </div>
 
----
+## `05 // TRANSMISSION`
 
 <div align="center">
 
-### Building systems that learn, perceive, interact, and move.
+```text
+> initializing future systems...
+> intelligence connected
+> perception connected
+> robotics connected
+> ready to build_ 
+```
 
-**AI Engineering · Robotics · Intelligent Systems**
+**Building systems that learn, perceive, interact, and move.**
+
+<img src="https://komarev.com/ghpvc/?username=Kas01000101&style=for-the-badge&color=7c3aed&label=PROFILE+SIGNAL" alt="Profile views" />
 
 </div>
