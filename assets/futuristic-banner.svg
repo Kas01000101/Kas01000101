@@ -1,54 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
-  <title id="title">Kas01000101 — AI Engineering and Robotics</title>
-  <desc id="desc">Minimal animated purple and cyan futuristic profile banner</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090D1F"/>
-      <stop offset="0.5" stop-color="#151035"/>
-      <stop offset="1" stop-color="#071B29"/>
-    </linearGradient>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8B5CF6"/>
-      <stop offset="0.5" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
-    <radialGradient id="leftGlow">
-      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="rightGlow">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="clip"><rect width="1200" height="210" rx="22"/></clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">Kas01000101 — AI Engineering and Robotics</title>
+<desc id="desc">Compact purple and cyan pixel art profile banner</desc>
 
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="210" fill="url(#bg)"/>
-    <circle cx="180" cy="30" r="230" fill="url(#leftGlow)">
-      <animate attributeName="cx" values="150;230;150" dur="9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1030" cy="180" r="250" fill="url(#rightGlow)">
-      <animate attributeName="cx" values="1050;960;1050" dur="10s" repeatCount="indefinite"/>
-    </circle>
+<rect width="1200" height="240" fill="#050816"/>
+<rect x="8" y="8" width="1184" height="224" fill="none" stroke="#33205F" stroke-width="8"/>
+<rect x="16" y="16" width="1168" height="208" fill="none" stroke="#0E7490" stroke-width="2"/>
 
-    <path d="M100 44 H1100" stroke="url(#neon)" stroke-width="1" opacity="0.35" stroke-dasharray="3 12">
-      <animate attributeName="stroke-dashoffset" values="0;-60" dur="5s" repeatCount="indefinite"/>
-    </path>
-    <path d="M100 166 H1100" stroke="url(#neon)" stroke-width="1" opacity="0.22"/>
+<!-- pixel stars -->
+<g>
+  <rect x="72" y="45" width="6" height="6" fill="#A78BFA"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></rect>
+  <rect x="128" y="92" width="4" height="4" fill="#22D3EE"/>
+  <rect x="1018" y="48" width="6" height="6" fill="#22D3EE"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></rect>
+  <rect x="1092" y="86" width="4" height="4" fill="#C084FC"/>
+  <rect x="966" y="174" width="5" height="5" fill="#8B5CF6"/>
+  <rect x="206" y="174" width="4" height="4" fill="#22D3EE"/>
+</g>
 
-    <circle cx="165" cy="44" r="2.5" fill="#A78BFA" filter="url(#glow)">
-      <animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1035" cy="166" r="2.5" fill="#22D3EE" filter="url(#glow)">
-      <animate attributeName="opacity" values="1;0.25;1" dur="2.7s" repeatCount="indefinite"/>
-    </circle>
+<!-- pixel rover -->
+<g transform="translate(72 83)">
+  <rect x="0" y="54" width="120" height="16" fill="#111827"/>
+  <rect x="14" y="34" width="82" height="28" fill="#E5E7EB"/>
+  <rect x="24" y="20" width="58" height="20" fill="#CBD5E1"/>
+  <rect x="34" y="24" width="12" height="10" fill="#22D3EE"/>
+  <rect x="58" y="24" width="12" height="10" fill="#8B5CF6"/>
+  <rect x="48" y="8" width="6" height="14" fill="#A78BFA"/>
+  <rect x="44" y="4" width="14" height="6" fill="#22D3EE"><animate attributeName="fill" values="#22D3EE;#C084FC;#22D3EE" dur="1.8s" repeatCount="indefinite"/></rect>
+  <rect x="18" y="66" width="24" height="12" fill="#020617"/>
+  <rect x="70" y="66" width="24" height="12" fill="#020617"/>
+  <rect x="102" y="44" width="14" height="14" fill="#7C3AED"/>
+</g>
 
-    <text x="600" y="102" text-anchor="middle" fill="url(#neon)" filter="url(#glow)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="47" font-weight="800" letter-spacing="1">Kas01000101</text>
-    <text x="600" y="136" text-anchor="middle" fill="#E8ECFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2">AI ENGINEERING  •  ROBOTICS</text>
-  </g>
+<!-- pixel satellite dish -->
+<g transform="translate(1028 74)">
+  <rect x="42" y="76" width="66" height="12" fill="#111827"/>
+  <rect x="66" y="46" width="10" height="32" fill="#94A3B8"/>
+  <path d="M26 12h70v12H86v12H74v12H58v-8H46v-8H34v-8h-8z" fill="#8B5CF6"/>
+  <path d="M38 16h46v8H74v8H62v8H50v-8H42v-8h-4z" fill="#22D3EE" opacity=".72"/>
+  <rect x="82" y="2" width="6" height="14" fill="#A78BFA"/>
+  <rect x="86" y="0" width="8" height="8" fill="#22D3EE"><animate attributeName="opacity" values=".25;1;.25" dur="1.5s" repeatCount="indefinite"/></rect>
+</g>
+
+<!-- title -->
+<text x="604" y="92" text-anchor="middle" fill="#1D4ED8" font-family="Courier New,monospace" font-size="52" font-weight="900" letter-spacing="2">Kas01000101</text>
+<text x="600" y="88" text-anchor="middle" fill="#C084FC" font-family="Courier New,monospace" font-size="52" font-weight="900" letter-spacing="2">Kas01000101</text>
+<text x="740" y="88" text-anchor="middle" fill="#22D3EE" font-family="Courier New,monospace" font-size="52" font-weight="900" letter-spacing="2">0101</text>
+
+<text x="600" y="124" text-anchor="middle" fill="#E2E8F0" font-family="Courier New,monospace" font-size="17" font-weight="700" letter-spacing="3">AI ENGINEERING  +  ROBOTICS</text>
+
+<!-- compact terminal strip -->
+<rect x="350" y="151" width="500" height="42" fill="#080D20" stroke="#164E63" stroke-width="4"/>
+<rect x="364" y="164" width="10" height="10" fill="#A855F7"><animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/></rect>
+<text x="390" y="179" fill="#A5F3FC" font-family="Courier New,monospace" font-size="15" font-weight="700">perceive  &gt;  reason  &gt;  interact  &gt;  act_</text>
+
+<!-- scanline -->
+<rect x="20" y="28" width="1160" height="3" fill="#22D3EE" opacity="0.08">
+  <animate attributeName="y" values="28;208;28" dur="5s" repeatCount="indefinite"/>
+</rect>
 </svg>
