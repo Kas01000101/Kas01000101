@@ -1,118 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
 <title id="title">Kas01000101 — AI Engineering and Robotics</title>
-<desc id="desc">Compact purple and cyan pixel art profile banner</desc>
+<desc id="desc">Minimal monochrome technical profile banner</desc>
 
-<rect width="1200" height="240" fill="#050816"/>
-<rect x="8" y="8" width="1184" height="224" fill="none" stroke="#33205F" stroke-width="8"/>
-<rect x="16" y="16" width="1168" height="208" fill="none" stroke="#0E7490" stroke-width="2"/>
+<rect width="1200" height="180" fill="#050505"/>
+<rect x="10" y="10" width="1180" height="160" fill="none" stroke="#E5E7EB" stroke-width="2"/>
+<rect x="20" y="20" width="1160" height="140" fill="none" stroke="#303030" stroke-width="1"/>
 
-<!-- pixel stars -->
-<g>
-  <rect x="72" y="45" width="6" height="6" fill="#A78BFA"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></rect>
-  <rect x="128" y="92" width="4" height="4" fill="#22D3EE"/>
-  <rect x="1018" y="48" width="6" height="6" fill="#22D3EE"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></rect>
-  <rect x="1092" y="86" width="4" height="4" fill="#C084FC"/>
-  <rect x="966" y="174" width="5" height="5" fill="#8B5CF6"/>
-  <rect x="206" y="174" width="4" height="4" fill="#22D3EE"/>
-</g>
+<text x="52" y="48" fill="#8A8A8A" font-family="Courier New,monospace" font-size="13" letter-spacing="2">PROFILE / 01000101</text>
+<text x="1148" y="48" text-anchor="end" fill="#8A8A8A" font-family="Courier New,monospace" font-size="13" letter-spacing="2">STATUS / BUILDING</text>
 
-<!-- detailed pixel rover -->
-<g transform="translate(48 70)">
-  <!-- terrain shadow -->
-  <rect x="12" y="104" width="164" height="8" fill="#091225"/>
-  <rect x="28" y="112" width="130" height="4" fill="#111B35"/>
+<line x1="52" y1="62" x2="1148" y2="62" stroke="#2D2D2D" stroke-width="1"/>
 
-  <!-- six wheels -->
-  <g fill="#020617" stroke="#334155" stroke-width="4">
-    <rect x="24" y="84" width="28" height="28"/>
-    <rect x="72" y="84" width="28" height="28"/>
-    <rect x="120" y="84" width="28" height="28"/>
-  </g>
-  <g fill="#475569">
-    <rect x="32" y="92" width="12" height="12"/>
-    <rect x="80" y="92" width="12" height="12"/>
-    <rect x="128" y="92" width="12" height="12"/>
-  </g>
+<text x="600" y="108" text-anchor="middle" fill="#FFFFFF" font-family="Courier New,monospace" font-size="44" font-weight="700" letter-spacing="3">Kas01000101</text>
+<text x="600" y="136" text-anchor="middle" fill="#BDBDBD" font-family="Courier New,monospace" font-size="15" font-weight="700" letter-spacing="4">AI ENGINEERING  ·  ROBOTICS</text>
 
-  <!-- chassis -->
-  <rect x="20" y="66" width="138" height="24" fill="#64748B"/>
-  <rect x="28" y="58" width="120" height="20" fill="#CBD5E1"/>
-  <rect x="36" y="52" width="104" height="10" fill="#E2E8F0"/>
-  <rect x="148" y="68" width="18" height="14" fill="#7C3AED"/>
-  <rect x="154" y="72" width="12" height="6" fill="#C084FC"/>
-
-  <!-- robot head -->
-  <rect x="52" y="22" width="76" height="34" fill="#94A3B8"/>
-  <rect x="60" y="16" width="60" height="10" fill="#CBD5E1"/>
-  <rect x="64" y="28" width="52" height="20" fill="#071B29"/>
-  <rect x="72" y="34" width="12" height="8" fill="#22D3EE">
-    <animate attributeName="fill" values="#22D3EE;#67E8F9;#22D3EE" dur="1.6s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="96" y="34" width="12" height="8" fill="#22D3EE">
-    <animate attributeName="fill" values="#22D3EE;#C084FC;#22D3EE" dur="1.9s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="48" y="28" width="8" height="14" fill="#475569"/>
-  <rect x="128" y="28" width="8" height="14" fill="#475569"/>
-
-  <!-- neck + antenna -->
-  <rect x="82" y="8" width="8" height="10" fill="#94A3B8"/>
-  <rect x="86" y="0" width="6" height="10" fill="#A78BFA"/>
-  <rect x="82" y="0" width="14" height="5" fill="#22D3EE">
-    <animate attributeName="opacity" values=".35;1;.35" dur="1.5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- side module -->
-  <rect x="42" y="66" width="34" height="14" fill="#E2E8F0"/>
-  <rect x="48" y="70" width="8" height="6" fill="#8B5CF6"/>
-  <rect x="62" y="70" width="8" height="6" fill="#22D3EE"/>
-</g>
-
-<!-- detailed pixel satellite dish -->
-<g transform="translate(1004 58)">
-  <!-- ground -->
-  <rect x="10" y="118" width="168" height="8" fill="#091225"/>
-  <rect x="30" y="126" width="126" height="4" fill="#111B35"/>
-
-  <!-- base -->
-  <rect x="60" y="94" width="74" height="24" fill="#1E293B"/>
-  <rect x="70" y="84" width="54" height="14" fill="#334155"/>
-  <rect x="78" y="100" width="16" height="8" fill="#22D3EE"/>
-  <rect x="102" y="100" width="16" height="8" fill="#8B5CF6"/>
-  <rect x="90" y="72" width="12" height="16" fill="#94A3B8"/>
-
-  <!-- pixel dish bowl -->
-  <path d="M26 18h82v10h12v12h-10v12h-12v10H84v8H66v-8H52v-8H40v-8H30v-12H22V26h4z" fill="#6D5BD0"/>
-  <path d="M34 22h62v8h12v10H96v10H82v8H66v-6H54v-8H44v-8H34z" fill="#8B5CF6"/>
-  <path d="M46 26h42v8h10v8H86v8H72v6H60v-8H50v-8h-8V32h4z" fill="#22D3EE" opacity=".9"/>
-  <path d="M54 30h26v6h8v6H78v6H66v-6H58v-6h-4z" fill="#67E8F9"/>
-
-  <!-- feed arm -->
-  <rect x="92" y="18" width="8" height="12" fill="#CBD5E1"/>
-  <rect x="98" y="10" width="8" height="12" fill="#CBD5E1"/>
-  <rect x="104" y="4" width="8" height="10" fill="#A78BFA"/>
-  <rect x="108" y="0" width="8" height="8" fill="#22D3EE">
-    <animate attributeName="opacity" values=".3;1;.3" dur="1.4s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- support -->
-  <rect x="84" y="60" width="12" height="24" fill="#94A3B8"/>
-  <rect x="74" y="78" width="30" height="8" fill="#64748B"/>
-</g>
-
-<!-- title -->
-<text x="604" y="92" text-anchor="middle" fill="#1D4ED8" font-family="Courier New,monospace" font-size="52" font-weight="900" letter-spacing="2">Kas01000101</text>
-<text x="600" y="88" text-anchor="middle" fill="#C084FC" font-family="Courier New,monospace" font-size="52" font-weight="900" letter-spacing="2">Kas01000101</text>
-<text x="740" y="88" text-anchor="middle" fill="#22D3EE" font-family="Courier New,monospace" font-size="52" font-weight="900" letter-spacing="2">0101</text>
-
-<text x="600" y="124" text-anchor="middle" fill="#E2E8F0" font-family="Courier New,monospace" font-size="17" font-weight="700" letter-spacing="3">AI ENGINEERING  +  ROBOTICS</text>
-
-<!-- compact terminal strip -->
-<rect x="350" y="151" width="500" height="42" fill="#080D20" stroke="#164E63" stroke-width="4"/>
-<rect x="364" y="164" width="10" height="10" fill="#A855F7"><animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/></rect>
-<text x="390" y="179" fill="#A5F3FC" font-family="Courier New,monospace" font-size="15" font-weight="700">perceive  &gt;  reason  &gt;  interact  &gt;  act_</text>
-
-<!-- scanline -->
-<rect x="20" y="28" width="1160" height="3" fill="#22D3EE" opacity="0.08">
-  <animate attributeName="y" values="28;208;28" dur="5s" repeatCount="indefinite"/>
-</rect>
+<rect x="52" y="148" width="8" height="8" fill="#FFFFFF"/>
+<line x1="72" y1="152" x2="1128" y2="152" stroke="#242424" stroke-width="1"/>
+<rect x="1140" y="148" width="8" height="8" fill="#FFFFFF"/>
 </svg>
