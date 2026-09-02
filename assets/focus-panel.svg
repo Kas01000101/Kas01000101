@@ -1,61 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title" shape-rendering="crispEdges">
 <title id="title">Core stack and focus areas</title>
-<rect width="1200" height="200" fill="#050816"/>
-<rect x="8" y="8" width="1184" height="184" fill="none" stroke="#241744" stroke-width="6"/>
 
-<!-- STACK -->
-<text x="38" y="39" fill="#C084FC" font-family="Courier New,monospace" font-size="16" font-weight="700">STACK://</text>
-<g font-family="Courier New,monospace" font-size="14" font-weight="700" text-anchor="middle">
-  <g transform="translate(142 18)"><rect width="108" height="36" fill="#0B1025" stroke="#7C3AED" stroke-width="3"/><text x="54" y="24" fill="#E9D5FF">PYTHON</text></g>
-  <g transform="translate(262 18)"><rect width="108" height="36" fill="#0B1025" stroke="#22D3EE" stroke-width="3"/><text x="54" y="24" fill="#CFFAFE">TYPESCRIPT</text></g>
-  <g transform="translate(382 18)"><rect width="92" height="36" fill="#0B1025" stroke="#7C3AED" stroke-width="3"/><text x="46" y="24" fill="#E9D5FF">C++</text></g>
-  <g transform="translate(486 18)"><rect width="98" height="36" fill="#0B1025" stroke="#22D3EE" stroke-width="3"/><text x="49" y="24" fill="#CFFAFE">FASTAPI</text></g>
-  <g transform="translate(596 18)"><rect width="112" height="36" fill="#0B1025" stroke="#7C3AED" stroke-width="3"/><text x="56" y="24" fill="#E9D5FF">POSTGRES</text></g>
-  <g transform="translate(720 18)"><rect width="112" height="36" fill="#0B1025" stroke="#22D3EE" stroke-width="3"/><text x="56" y="24" fill="#CFFAFE">SUPABASE</text></g>
-  <g transform="translate(844 18)"><rect width="104" height="36" fill="#0B1025" stroke="#7C3AED" stroke-width="3"/><text x="52" y="24" fill="#E9D5FF">THREE.JS</text></g>
-  <g transform="translate(960 18)"><rect width="82" height="36" fill="#0B1025" stroke="#22D3EE" stroke-width="3"/><text x="41" y="24" fill="#CFFAFE">GIT</text></g>
+<rect width="1200" height="170" fill="#050505"/>
+<rect x="10" y="10" width="1180" height="150" fill="none" stroke="#E5E7EB" stroke-width="2"/>
+
+<text x="42" y="38" fill="#A3A3A3" font-family="Courier New,monospace" font-size="14" font-weight="700" letter-spacing="2">STACK</text>
+<line x1="42" y1="48" x2="1158" y2="48" stroke="#2D2D2D" stroke-width="1"/>
+
+<g font-family="Courier New,monospace" font-size="13" font-weight="700" text-anchor="middle">
+  <g transform="translate(132 24)"><rect width="116" height="28" fill="#090909" stroke="#BDBDBD"/><text x="58" y="19" fill="#F5F5F5">PYTHON</text></g>
+  <g transform="translate(258 24)"><rect width="126" height="28" fill="#090909" stroke="#BDBDBD"/><text x="63" y="19" fill="#F5F5F5">TYPESCRIPT</text></g>
+  <g transform="translate(394 24)"><rect width="82" height="28" fill="#090909" stroke="#BDBDBD"/><text x="41" y="19" fill="#F5F5F5">C++</text></g>
+  <g transform="translate(486 24)"><rect width="98" height="28" fill="#090909" stroke="#BDBDBD"/><text x="49" y="19" fill="#F5F5F5">FASTAPI</text></g>
+  <g transform="translate(594 24)"><rect width="108" height="28" fill="#090909" stroke="#BDBDBD"/><text x="54" y="19" fill="#F5F5F5">POSTGRES</text></g>
+  <g transform="translate(712 24)"><rect width="108" height="28" fill="#090909" stroke="#BDBDBD"/><text x="54" y="19" fill="#F5F5F5">SUPABASE</text></g>
+  <g transform="translate(830 24)"><rect width="108" height="28" fill="#090909" stroke="#BDBDBD"/><text x="54" y="19" fill="#F5F5F5">THREE.JS</text></g>
+  <g transform="translate(948 24)"><rect width="76" height="28" fill="#090909" stroke="#BDBDBD"/><text x="38" y="19" fill="#F5F5F5">GIT</text></g>
 </g>
 
-<rect x="38" y="70" width="1124" height="3" fill="#172554"/>
-
-<!-- FOCUS -->
-<text x="38" y="101" fill="#22D3EE" font-family="Courier New,monospace" font-size="16" font-weight="700">FOCUS://</text>
+<text x="42" y="84" fill="#A3A3A3" font-family="Courier New,monospace" font-size="14" font-weight="700" letter-spacing="2">FOCUS</text>
+<line x1="42" y1="94" x2="1158" y2="94" stroke="#2D2D2D" stroke-width="1"/>
 
 <g font-family="Courier New,monospace">
-  <g transform="translate(145 88)">
-    <rect width="236" height="82" fill="#080D20" stroke="#7C3AED" stroke-width="3"/>
-    <!-- pixel brain -->
-    <rect x="16" y="18" width="8" height="8" fill="#C084FC"/><rect x="24" y="12" width="16" height="8" fill="#C084FC"/><rect x="40" y="18" width="8" height="8" fill="#C084FC"/><rect x="16" y="26" width="32" height="14" fill="#8B5CF6"/><rect x="22" y="40" width="8" height="8" fill="#C084FC"/><rect x="34" y="40" width="8" height="8" fill="#C084FC"/>
-    <text x="64" y="29" fill="#E9D5FF" font-size="16" font-weight="700">AI ENGINEERING</text>
-    <text x="64" y="52" fill="#94A3B8" font-size="12">intelligent systems</text>
+  <g transform="translate(42 106)">
+    <rect width="260" height="38" fill="#090909" stroke="#6B7280"/>
+    <text x="14" y="16" fill="#FFFFFF" font-size="13" font-weight="700">AI ENGINEERING</text>
+    <text x="14" y="30" fill="#8E8E8E" font-size="10">intelligent systems</text>
   </g>
-
-  <g transform="translate(395 88)">
-    <rect width="236" height="82" fill="#080D20" stroke="#22D3EE" stroke-width="3"/>
-    <!-- pixel robot -->
-    <rect x="17" y="17" width="30" height="22" fill="#164E63"/><rect x="21" y="21" width="6" height="6" fill="#22D3EE"/><rect x="37" y="21" width="6" height="6" fill="#22D3EE"/><rect x="26" y="9" width="10" height="8" fill="#22D3EE"/><rect x="14" y="41" width="36" height="8" fill="#0E7490"/>
-    <text x="64" y="29" fill="#CFFAFE" font-size="16" font-weight="700">ROBOTICS</text>
-    <text x="64" y="52" fill="#94A3B8" font-size="12">sensors + autonomy</text>
+  <g transform="translate(316 106)">
+    <rect width="260" height="38" fill="#090909" stroke="#6B7280"/>
+    <text x="14" y="16" fill="#FFFFFF" font-size="13" font-weight="700">ROBOTICS</text>
+    <text x="14" y="30" fill="#8E8E8E" font-size="10">sensing · autonomy</text>
   </g>
-
-  <g transform="translate(645 88)">
-    <rect width="236" height="82" fill="#080D20" stroke="#7C3AED" stroke-width="3"/>
-    <!-- pixel eye -->
-    <rect x="14" y="25" width="8" height="8" fill="#A78BFA"/><rect x="22" y="17" width="24" height="8" fill="#8B5CF6"/><rect x="46" y="25" width="8" height="8" fill="#A78BFA"/><rect x="22" y="33" width="24" height="8" fill="#8B5CF6"/><rect x="30" y="25" width="8" height="8" fill="#22D3EE"/>
-    <text x="64" y="29" fill="#E9D5FF" font-size="15" font-weight="700">COMPUTER VISION</text>
-    <text x="64" y="52" fill="#94A3B8" font-size="12">visual perception</text>
+  <g transform="translate(590 106)">
+    <rect width="260" height="38" fill="#090909" stroke="#6B7280"/>
+    <text x="14" y="16" fill="#FFFFFF" font-size="13" font-weight="700">COMPUTER VISION</text>
+    <text x="14" y="30" fill="#8E8E8E" font-size="10">visual perception</text>
   </g>
-
-  <g transform="translate(895 88)">
-    <rect width="236" height="82" fill="#080D20" stroke="#22D3EE" stroke-width="3"/>
-    <!-- pixel rover -->
-    <rect x="15" y="27" width="38" height="14" fill="#0E7490"/><rect x="23" y="19" width="22" height="10" fill="#67E8F9"/><rect x="20" y="41" width="10" height="8" fill="#020617"/><rect x="40" y="41" width="10" height="8" fill="#020617"/><rect x="32" y="11" width="4" height="8" fill="#C084FC"/>
-    <text x="64" y="29" fill="#CFFAFE" font-size="14" font-weight="700">AUTONOMOUS SYSTEMS</text>
-    <text x="64" y="52" fill="#94A3B8" font-size="12">navigation + action</text>
+  <g transform="translate(864 106)">
+    <rect width="294" height="38" fill="#090909" stroke="#6B7280"/>
+    <text x="14" y="16" fill="#FFFFFF" font-size="13" font-weight="700">AUTONOMOUS SYSTEMS</text>
+    <text x="14" y="30" fill="#8E8E8E" font-size="10">navigation · decision making</text>
   </g>
 </g>
-
-<!-- blinking pixels -->
-<rect x="1126" y="30" width="6" height="6" fill="#22D3EE"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></rect>
-<rect x="68" y="150" width="6" height="6" fill="#C084FC"><animate attributeName="opacity" values="1;.25;1" dur="2.5s" repeatCount="indefinite"/></rect>
 </svg>
